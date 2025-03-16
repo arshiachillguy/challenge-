@@ -1,7 +1,6 @@
 import java.util.Arrays;
 public class firstDay {
     {
-
             int[] num1 = {3, 5, 6, 7, 8, 9, 4};
             int[] num2 = new int[7];
             int[] num3 = new int[7];

@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args){
-        firstDay ali = new firstDay();
 
-
+        secondDay test = new secondDay();
+        test.change();
 
     }
 }
